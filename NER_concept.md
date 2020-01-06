@@ -17,7 +17,7 @@
 ### Pre-trained
 * pre-train	`pre-train|contextualized|BERT`
 
-# Task setting
+### Task setting
 * task-nested	`nested|multi-grained`
 * task-hetero	`heterogeneous`
 * task-lowres	`low-resource|zero-resource`
