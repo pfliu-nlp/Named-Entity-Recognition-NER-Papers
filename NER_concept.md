@@ -25,6 +25,6 @@
 ### Dataset
 * dataset:	`constructing a new dataset`
 
-### Interpretable `analysis`
+### Interpretable Analysis
 * interpret-genz:	`generalization`
 * interpret-arch:	`what works`
