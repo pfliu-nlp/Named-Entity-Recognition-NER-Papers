@@ -1,12 +1,12 @@
 # Concept Definition for the NER Task
 
-## Architecture
+### Architecture
 * arch-RNN: `Recursive|recurrent neural|LSTM`
 * arch-CNN	`CNN|convolutional neural network`
 * arch-att	`Attention|attentive`
 * arch-markov	`Markov`
 
-## Training
+### Training
 * train-multitask	`multi-task|cross-task`
 * train-auxiliary	`joint learning|joint|language model`
 * train-transfer	`Cross-domain|transfer|adaptation`
@@ -14,7 +14,7 @@
 * train-active	`Active learning|bootstrapping|bootstrap`
 * train-adver	`adversarial`
 
-## Pre-trained
+### Pre-trained
 * pre-train	`pre-train|contextualized|BERT`
 
 # Task setting
@@ -22,9 +22,9 @@
 * task-hetero	`heterogeneous`
 * task-lowres	`low-resource|zero-resource`
 
-## Dataset
+### Dataset
 * dataset	`dataset|corpus`
 
-# Interpretable `analysis`
+### Interpretable `analysis`
 * interpret-genz	`generalization`
 * interpret-arch	`what works`
