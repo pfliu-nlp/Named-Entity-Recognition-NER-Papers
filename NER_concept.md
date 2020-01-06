@@ -2,8 +2,8 @@
 
 ### Architecture
 * arch-rnn: `Recurrent neural networks (LSTM, GRU)`
-* arch-cnn	`CNN|convolutional neural network`
-* arch-att	`Attention|attentive`
+* arch-cnn:	`convolutional neural network`
+* arch-att:	`Attention mechasnim`
 * arch-markov	`Markov`
 
 ### Training
