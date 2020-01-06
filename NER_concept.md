@@ -1,7 +1,7 @@
 # Concept Definition for the NER Task
 
 ### Architecture
-* arch-rnn: Recurrent neural networks (Recursive|recurrent neural|LSTM)
+* arch-rnn: `Recurrent neural networks (LSTM, GRU)`
 * arch-cnn	`CNN|convolutional neural network`
 * arch-att	`Attention|attentive`
 * arch-markov	`Markov`
