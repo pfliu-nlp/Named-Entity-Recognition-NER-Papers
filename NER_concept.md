@@ -1,10 +1,10 @@
 # Concept Definition for the NER Task
 
 ### Architecture
-* arch-rnn: `recurrent neural networks (LSTM, GRU)`
-* arch-cnn:	`convolutional neural network`
-* arch-att:	`attention mechasnim`
-* arch-markov:	`Markov`
+* `arch-rnn`: Recurrent Neural Networks (LSTM, GRU)
+* `arch-cnn`:	Convolutional Neural Network
+* `arch-att`:	Attention Mechasnim
+* `arch-markov`:	Markov
 
 ### Training
 * train-multitask:	`multi-task learning`
@@ -27,4 +27,4 @@
 
 ### Interpretable Analysis
 * interpret-genz:	`generalization`
-* interpret-arch:	`what works`
+* interpret-arch:	`architecture`
