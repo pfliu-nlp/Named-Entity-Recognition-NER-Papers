@@ -17,7 +17,7 @@
 ### Pre-trained
 * pre-train: `pre-trained, contextualized (BERT)`
 
-### Task setting
+### Task Setting
 * task-nested:	`nested or multi-grained NER`
 * task-hetero:	`heterogeneous categories`
 * task-lowres:	`low-resource or zero-resource learning`
