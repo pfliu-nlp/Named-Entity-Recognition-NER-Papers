@@ -14,5 +14,10 @@ covering papers from seven top conferences (ACL/EMNLP/NAACL/Coling/ICLR/AAAI/IJC
 
 ## What can I do here?
 * ### If you have a new "research point"?  -- Tell us
+	* Modify the file `ner_research_point.md` and `Pull requests`
+	* Or you could directly propose a `Issues`
+
 
 * ### If you have a new "paper"?
+	* Modify the file `ner_research_point.md` and `Pull requests`
+	* Or you could directly propose a `Issues`
