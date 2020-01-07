@@ -4,7 +4,7 @@ covering papers from seven top conferences (ACL/EMNLP/NAACL/Coling/ICLR/AAAI/IJC
 
 ## What can I get here?
 * Get to know [Potential Research Points](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers/blob/master/NER_concept.md) of recent NER work
-* A fancy [paper viewing system](http://pfliu.com/ner/ner.html), in which you can:
+* A fancy [Paper Viewing System](http://pfliu.com/ner/ner.html), in which you can:
 	* Find the **top-cited** NER-papers, which are generally worth reading!!
 	* Find the **latest** NER-papers, which reflect the trend of development!
 	* Searching papers with keywords that you're interested in
