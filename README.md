@@ -2,4 +2,5 @@
 An elaborate and exhaustive paper list for Named Entity Recognition (NER)
 
 
-## What can you get here?
+## What can I get here?
+* Get to know key concepts of recent NER research
