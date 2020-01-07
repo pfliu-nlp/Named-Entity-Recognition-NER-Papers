@@ -7,24 +7,24 @@
 * `arch-markov`:	Markov
 
 ### Training
-* train-multitask:	`multi-task learning`
-* train-auxiliary:	`joint training`
-* train-transfer:	`cross-domain learning, transfer or domain adaptation`
-* train-multiling:	`bi-lingual, multi-lingual learning`
-* train-active:	`active learning, bootstrapping`
-* train-adver:	`adversarial learning`
+* `train-multitask`:	Multi-task Learning
+* `train-auxiliary`:	Joint Training
+* `train-transfer`:	Cross-domain learning, Transfer or Domain adaptation
+* `train-multiling`:	Bi-lingual, Multi-lingual learning
+* `train-active`:	Active learning, Bootstrapping
+* `train-adver`:	Adversarial Learning
 
 ### Pre-trained Models
-* pre-train: `pre-trained, contextualized (BERT)`
+* `pre-train`: Pre-trained, Contextualized (BERT)
 
 ### Task Setting
-* task-nested:	`nested or multi-grained NER`
-* task-hetero:	`heterogeneous categories`
-* task-lowres:	`low-resource or zero-resource learning`
+* `task-nested`:	Nested or Multi-grained NER
+* `task-hetero`:	Heterogeneous categories
+* `task-lowres`:	Low-resource or Zero-resource learning
 
 ### Dataset
-* dataset:	`constructing a new dataset`
+* `dataset`:	Constructing a new dataset
 
 ### Interpretable Analysis
-* interpret-genz:	`generalization`
-* interpret-arch:	`architecture`
+* `interpret-genz`:	Generalization
+* `interpret-arch`:	Architecture
