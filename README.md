@@ -9,3 +9,4 @@ covering papers from seven top conferences (ACL/EMNLP/NAACL/Coling/ICLR/AAAI/IJC
 	* Find the **latest** NER-papers, which reflect the trend of development!
 	* Searching papers with keywords that you're interested in
 	* Knowing which papers are covered by a given research point
+* Mainstream NER Datasets
