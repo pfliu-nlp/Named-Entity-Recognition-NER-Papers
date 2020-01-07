@@ -14,10 +14,10 @@
 * train-active:	`active learning, bootstrapping`
 * train-adver:	`adversarial learning`
 
-### Pre-trained
+### Pre-trained Models
 * pre-train: `pre-trained, contextualized (BERT)`
 
-### Task setting
+### Task Setting
 * task-nested:	`nested or multi-grained NER`
 * task-hetero:	`heterogeneous categories`
 * task-lowres:	`low-resource or zero-resource learning`
