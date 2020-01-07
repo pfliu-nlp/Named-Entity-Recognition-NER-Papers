@@ -7,12 +7,12 @@
 * `arch-markov`:	Markov
 
 ### Training
-* `train-multitask`:	Multi-task Learning
-* `train-auxiliary`:	Joint Training
-* `train-transfer`:	Cross-domain learning, Transfer or Domain adaptation
+* `train-multitask`:	Multi-task learning
+* `train-auxiliary`:	Joint training
+* `train-transfer`:	Cross-domain learning, Transfer or domain adaptation
 * `train-multiling`:	Bi-lingual, Multi-lingual learning
 * `train-active`:	Active learning, Bootstrapping
-* `train-adver`:	Adversarial Learning
+* `train-adver`:	Adversarial learning
 
 ### Pre-trained Models
 * `pre-train`: Pre-trained, Contextualized (BERT)
