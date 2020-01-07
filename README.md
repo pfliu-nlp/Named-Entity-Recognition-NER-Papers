@@ -13,3 +13,6 @@ covering papers from seven top conferences (ACL/EMNLP/NAACL/Coling/ICLR/AAAI/IJC
 
 
 ## What can I do here?
+* ### If you have a new "research point"?
+
+* ### If you have a new "paper"?
