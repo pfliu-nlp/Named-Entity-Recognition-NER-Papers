@@ -8,3 +8,4 @@ covering papers from seven top conferences (ACL/EMNLP/NAACL/Coling/ICLR/AAAI/IJC
 	* Find the <span style="color:blue">top-cited</span> NER-papers, which are generally worth reading!!
 	* Find the latest NER-papers, which reflect the trend of development!
 	* Search papers with keywords that you're interested in
+	<span style="color:red">some **This is Red Bold.** text</span>
