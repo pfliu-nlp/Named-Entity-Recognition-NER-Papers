@@ -14,7 +14,7 @@
 * train-active:	`active learning, bootstrapping`
 * train-adver:	`adversarial learning`
 
-### Pre-trained
+### Pre-trained Models
 * pre-train: `pre-trained, contextualized (BERT)`
 
 ### Task Setting
