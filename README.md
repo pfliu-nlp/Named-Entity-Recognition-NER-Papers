@@ -19,5 +19,5 @@ covering papers from seven top conferences (ACL/EMNLP/NAACL/Coling/ICLR/AAAI/IJC
 
 
 * ### If you have a new "paper"?
-	* **Add** your paper (If possible, with annotated concepts) into [`ner_research_point.md`](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers/blob/master/paper_with_concept) and `Pull requests`
+	* **Add** your paper (If possible, with annotated concepts) into [`paper_with_concept`](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers/blob/master/paper_with_concept) and `Pull requests`
 	* Or you could directly propose an `Issues`
