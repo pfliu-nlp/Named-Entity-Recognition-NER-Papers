@@ -18,6 +18,11 @@ covering papers from seven top conferences (ACL/EMNLP/NAACL/Coling/ICLR/AAAI/IJC
 	* Or you could directly propose an `Issues`
 
 
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
+
 * ### If you have a new "paper" or more reasonalbe annotations?
 	* **Add** your paper (If possible, with annotated concepts) into [`paper_with_concept`](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers/blob/master/paper_with_concept) and `Pull requests`
 	* Or you could directly propose an `Issues`
