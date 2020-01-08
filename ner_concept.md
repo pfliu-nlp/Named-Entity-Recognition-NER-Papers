@@ -4,7 +4,7 @@
 * `arch-rnn`: Recurrent Neural Networks (LSTM, GRU)
 * `arch-cnn`:	Convolutional Neural Network
 * `arch-att`:	Attention Mechasnim
-* `arch-markov`:	Markov
+* `arch-crf`:	Conditional Random Field
 
 ### Training
 * `train-multitask`:	Multi-task learning
