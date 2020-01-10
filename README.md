@@ -3,7 +3,7 @@ by [Pengfei Liu](http://pfliu.com/), [Jinlan Fu](http://*) and other contributor
 Thanks [Graham Neubig](http://www.phontron.com/)'s idea on "concept" and other comments.
 
 An elaborate and exhaustive paper list for Named Entity Recognition (NER),
-covering papers from seven top conferences (*ACL/EMNLP/NAACL/Coling/ICLR/AAAI/IJCAI*)  and eight years (*2013-2020*).
+covering papers from seven top conferences (*ACL / EMNLP / NAACL / Coling / ICLR / AAAI / IJCAI*)  and eight years (*2013-2020*).
 
 ## What can I get here?
 * Get to know [Potential Research Points &#x1F53D;](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers/blob/master/ner_concept.md) of recent NER work
@@ -21,13 +21,11 @@ covering papers from seven top conferences (*ACL/EMNLP/NAACL/Coling/ICLR/AAAI/IJ
 	* Or you could directly propose an `Issues`
 
 
-
-
 * ### If you have a new "paper" or more reasonalbe annotations?
-	* **Add** your dataset (If possible, with brief description) into [`ner_data`](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers/tree/master/ner_dataset) and `Pull requests`
-	* Or you could directly propose an `Issues`
-
-* ### If you have a new "dataset"?
 	* **Add** your paper (If possible, with annotated concepts) into [`paper_with_concept`](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers/blob/master/paper_with_concept) and `Pull requests`
 	* Or you could directly propose an `Issues`
 
+
+* ### If you have a new "dataset"?
+	* **Add** your dataset (If possible, with brief description) into [`ner_data`](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers/tree/master/ner_dataset) and `Pull requests`
+	* Or you could directly propose an `Issues`
