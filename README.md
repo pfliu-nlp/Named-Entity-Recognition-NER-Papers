@@ -17,12 +17,17 @@ covering papers from seven top conferences (*ACL/EMNLP/NAACL/Coling/ICLR/AAAI/IJ
 
 ## What can I do here?
 * ### If you have a new "research point"?  -- Tell us
-	* **Update** the file [`ner_research_point.md`](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers/blob/master/ner_concept.md) and `Pull requests`
+	* **Update** the file [`ner_concept.md`](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers/blob/master/ner_concept.md) and `Pull requests`
 	* Or you could directly propose an `Issues`
 
 
 
 
 * ### If you have a new "paper" or more reasonalbe annotations?
+	* **Add** your dataset (If possible, with brief description) into [`ner_data`](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers/tree/master/ner_dataset) and `Pull requests`
+	* Or you could directly propose an `Issues`
+
+* ### If you have a new "dataset"?
 	* **Add** your paper (If possible, with annotated concepts) into [`paper_with_concept`](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers/blob/master/paper_with_concept) and `Pull requests`
 	* Or you could directly propose an `Issues`
+
