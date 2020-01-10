@@ -1,6 +1,6 @@
 # Named-Entity-Recognition-NER-Papers
-by [Pengfei Liu](https://pfliu.com), Jinlan Fu and other contributors.
-Thanks Graham Neubig's idea on "concept" and other comments.
+by [Pengfei Liu](http://pfliu.com/), [Jinlan Fu](http://*) and other contributors.
+Thanks [Graham Neubig](http://www.phontron.com/)'s idea on "concept" and other comments.
 
 An elaborate and exhaustive paper list for Named Entity Recognition (NER),
 covering papers from seven top conferences (*ACL/EMNLP/NAACL/Coling/ICLR/AAAI/IJCAI*)  and eight years (*2013-2020*).
