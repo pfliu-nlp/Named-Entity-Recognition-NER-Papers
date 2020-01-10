@@ -35,3 +35,4 @@ covering papers from seven top conferences (*ACL / EMNLP / NAACL / Coling / ICLR
 
 ## Acknowledgments
 * Thanks [Graham Neubig](http://www.phontron.com/)'s idea on the "concept" and other comments.
+* This project is a by-product of this work ``Rethinking Generalization of Neural Models: A Named Entity Recognition Case Study``, whose recognition by this community motivates us a lot to set up such a summary.
