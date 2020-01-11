@@ -1,5 +1,5 @@
 # Named-Entity-Recognition-NER-Papers
-by [Pengfei Liu](http://pfliu.com/), [Jinlan Fu](http://*) and other contributors.
+by [Pengfei Liu](http://pfliu.com/), [Jinlan Fu](https://scholar.google.com/citations?hl=en&user=D4vtw8QAAAAJ) and other contributors.
 
 
 An elaborate and exhaustive paper list for Named Entity Recognition (NER),
