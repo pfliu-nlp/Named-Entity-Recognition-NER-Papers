@@ -6,7 +6,7 @@ An elaborate and exhaustive paper list for Named Entity Recognition (NER),
 covering papers from seven top conferences (*ACL / EMNLP / NAACL / Coling / ICLR / AAAI / IJCAI*)  and eight years (*2013-2020*).
 
 ## What can I get here?
-* Get to know [Potential Research Points &#x1F53D;](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers/blob/master/ner_concept.md) of recent NER work
+* Get to know [Potential Research Concepts &#x1F53D;](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers/blob/master/ner_concept.md) of recent NER work
 * A fancy [**Paper Viewing System [Click Me !!!]** &#x1F53D;](http://pfliu.com/ner/ner.html), in which you can:
 	* Find the **top-cited** NER-papers, which are generally worth reading!! [The latest update on: 01.05/2020]
 	* Find the **latest** NER-papers, which reflect the trend of development!

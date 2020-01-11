@@ -1,4 +1,4 @@
-# Potential Research Points for the NER Task
+# Potential Research Concepts for the NER Task
 
 ### Architecture
 * `arch-rnn`: Recurrent Neural Networks (LSTM, GRU)
