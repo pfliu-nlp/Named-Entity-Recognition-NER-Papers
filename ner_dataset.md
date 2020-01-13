@@ -15,4 +15,5 @@ The corpus type of OntoNotes 5.0 includes newswire (News), broadcast news (BN), 
 ### [Wnut16](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers/tree/master/ner_dataset/Wnut16)
 A shared task on named entity recognition in Twitter.  For more information about the data set, please refer to the paper: [Results of the WNUT16 Named Entity Recognition Shared Task](https://www.aclweb.org/anthology/W16-3919.pdf).
 
-
+### [CoNLL++](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers/tree/master/ner_dataset/CoNLL++)
+CoNLL++ views ner (CoNLL03) as a task to train with noisy annotations and test with gold-standard annotations. We corrected 186 sentences in the test set. For more information about the data set, please refer to the paper: [CrossWeigh: Training Named Entity Tagger from Imperfect Annotations](https://www.aclweb.org/anthology/D19-1519.pdf).
