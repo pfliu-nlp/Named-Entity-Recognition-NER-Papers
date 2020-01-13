@@ -1,7 +1,7 @@
 # Mainstream NER Datasets and Brief Description
 
 ### [ReCoNLL](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers/tree/master/ner_dataset/ReCoNLL)
-ReCoNLL is revised on CoNLL-2003. We manually fixed errors with the instruction of the measure ECR (entity coverage ratio) proposed by the [work](https"//arxiv/rethinking...). Specifically, we corrected 65 sentences in the test set and 14 sentences in the training set. 
+ReCoNLL is revised on CoNLL-2003. We manually fixed errors with the instruction of the measure ECR (entity coverage ratio) proposed by the [work](http://pfliu.com/InterpretNER/rethink-ner.pdf). Specifically, we corrected 65 sentences in the test set and 14 sentences in the training set. 
 
 ### [PLONER](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers/tree/master/ner_dataset/PLONER)
 PLONER (Person, Location, Organization NER) is purposed to evaluate the cross-domain generalization. We pick the samples which contain at least one of three entity type (Person, Location, Organization) from representative datasets, such as WNUT16, CoNLL03, OntoNotes 5.0. 
