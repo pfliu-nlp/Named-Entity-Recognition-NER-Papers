@@ -38,4 +38,4 @@ covering papers from seven top conferences (*ACL / EMNLP / NAACL / Coling / ICLR
 * Thanks [Graham Neubig](http://www.phontron.com/)'s idea on the "concept" and other comments.
 * Thanks for Prof. [Yue Zhang](https://frcchang.github.io/), [Zhenghua Li](http://ir.hit.edu.cn/~lzh/), [Nanyun Peng](http://vnpeng.net/) 's comments.
 * Thanks for [Zihan Wang](https://github.com/ZihanWangKi)'s suggestion and the contribution of CoNLL++ dataset.
-* Thanks for [Stephen Mayhew](https://mayhewsw.github.io/)'s comments.
+* Thanks for [Stephen Mayhew](https://mayhewsw.github.io/),[Juruo Yao](https://twitter.com/JYaoTheGunner)'s comments.
