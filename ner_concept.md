@@ -3,6 +3,7 @@
 ### Architecture
 * `arch-rnn`: Recurrent Neural Networks (LSTM, GRU)
 * `arch-cnn`:	Convolutional Neural Network
+* `arch-transformer`:	Transformer
 * `arch-gnn`: Graph Neural Network (GNN)
 * `arch-att`:	Attention Mechasnim
 * `arch-crf`:	Conditional Random Field
