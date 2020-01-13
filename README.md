@@ -34,5 +34,8 @@ covering papers from seven top conferences (*ACL / EMNLP / NAACL / Coling / ICLR
 
 
 ## Acknowledgments
-* Thanks [Graham Neubig](http://www.phontron.com/)'s idea on the "concept" and other comments.
 * This project is a by-product of this work [``Rethinking Generalization of Neural Models: A Named Entity Recognition Case Study``](http://pfliu.com/InterpretNER/rethink-ner.pdf), whose recognition by this community motivates us a lot to set up such a summary.
+* Thanks [Graham Neubig](http://www.phontron.com/)'s idea on the "concept" and other comments.
+* Thanks for Prof. [Yue Zhang](https://frcchang.github.io/), [Zhenghua Li](http://ir.hit.edu.cn/~lzh/), [Nanyun Peng](http://vnpeng.net/) 's comments.
+* Thanks for [Zihan Wang](https://github.com/ZihanWangKi)'s suggestion and the contribution of CoNLL++ dataset.
+* Thanks for [Stephen Mayhew](https://mayhewsw.github.io/)'s comments.
