@@ -6,6 +6,7 @@
 * `arch-gnn`: Graph Neural Network (GNN)
 * `arch-att`:	Attention Mechasnim
 * `arch-crf`:	Conditional Random Field
+* `arch-semicrf`:	Semi-Conditional Random Field
 
 ### Training
 * `train-multitask`:	Multi-task learning
@@ -29,4 +30,5 @@
 
 ### Interpretable Analysis
 * `interpret-genz`:	Generalization
-* `interpret-arch`:	Architecture
+* `interpret-model`:	System-wise Analysis
+* `interpret-error`:	Annotation Errors Analysis
