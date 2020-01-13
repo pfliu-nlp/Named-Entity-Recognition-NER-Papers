@@ -25,3 +25,6 @@ TENER: Adapting Transformer Encoder for Named Entity Recognition
 ``interpret-error``, ``semi-crf``
 #### Modification
 ``interpret-arch --> interpret-model``
+
+### Datasets
+Introduce a new dataset: CoNLL++
