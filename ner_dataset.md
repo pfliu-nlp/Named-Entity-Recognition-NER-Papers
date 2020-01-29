@@ -17,3 +17,8 @@ A shared task on named entity recognition in Twitter.  For more information abou
 
 ### [CoNLL++](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers/tree/master/ner_dataset/CoNLL++)
 CoNLL++ views ner (CoNLL03) as a task to train with noisy annotations and test with gold-standard annotations. We corrected 186 sentences in the test set. For more information about the data set, please refer to the paper: [CrossWeigh: Training Named Entity Tagger from Imperfect Annotations](https://www.aclweb.org/anthology/D19-1519.pdf).
+
+
+### [Multi-lingual]
+* [Finnish](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers/tree/master/ner_dataset/multilingual/fi) The dataset is refined by this [paper](https://arxiv.org/pdf/1911.09812.pdf).
+* [Arabic](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers/tree/master/ner_dataset/multilingual/ar) The dataset is refined by this [paper](https://arxiv.org/pdf/1911.09812.pdf).
