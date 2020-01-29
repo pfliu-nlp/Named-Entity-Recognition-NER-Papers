@@ -1,5 +1,11 @@
 # What We have Updated
 
+
+## Updates on 01/28/2020
+
+### Datasets
+#### Introduce two new datasets for Finnish and Arabic language.
+
 ## Updates on 01/13/2020
 
 ### Papers:
