@@ -1,10 +1,10 @@
 # Potential Research Concepts for the NER Task
 
 ### Architecture
-* `arch-rnn`: Recurrent Neural Networks (LSTM, GRU)
-* `arch-cnn`:	Convolutional Neural Network
+* `arch-rnn`: Recurrent Neural Networks (LSTMs, GRU)
+* `arch-cnn`:	Convolutional Neural Networks
 * `arch-transformer`:	Transformer
-* `arch-gnn`: Graph Neural Network (GNN)
+* `arch-gnn`: Graph Neural Networks (GNN)
 * `arch-att`:	Attention Mechasnim
 * `arch-crf`:	Conditional Random Field
 * `arch-semicrf`:	Semi-Conditional Random Field
