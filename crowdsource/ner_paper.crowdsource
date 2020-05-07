@@ -1,0 +1,1264 @@
+year: 2020
+conf: AAAI
+title: Why Attention? Analyze BiLSTM Deficiency and Its Remedies in the Case of NER
+author: Peng-Hsuan Li, Tsu-Jui Fu, Wei-Yun Ma
+url: https://arxiv.org/pdf/1908.11046.pdf
+citation: 0
+tag: arch-rnn, arch-att
+------------------------------------------------------------------------
+year: 2020
+conf: AAAI
+title: Rethinking Generalization of Neural Models: A Named Entity Recognition Case Study
+author: Jinlan Fu, Pengfei Liu, Qi Zhang, Xuanjing Huang
+url: http://pfliu.com/InterpretNER/rethink-ner.pdf
+citation: 0
+tag: interpret-genz
+------------------------------------------------------------------------
+year: 2020
+conf: AAAI
+title: Weakly Supervised Sequence Tagging from Noisy Rules
+author: Esteban Safranchik, Shiying Luo, Stephen H. Bach
+url: http://cs.brown.edu/people/sbach/files/safranchik-aaai20.pdf
+citation: 1
+tag: task-weaksup
+------------------------------------------------------------------------
+year: 2020
+conf: AAAI
+title: Hierarchical Contextualized Representation for Named Entity Recognition
+author: Ying Luo, Fengshun Xiao, Hai Zhao
+url: https://arxiv.org/pdf/1911.02257.pdf
+citation: 0
+tag: pre-train
+------------------------------------------------------------------------
+year: 2020
+conf: AAAI
+title: Zero-Resource Cross-Lingual Named Entity Recognition
+author: M Saiful Bari, Shafiq Joty, Prathyusha Jwalapuram
+url: https://arxiv.org/pdf/1911.09812.pdf
+citation: 0
+tag: train-multiling, task-lowres
+------------------------------------------------------------------------
+year: 2020
+conf: AAAI
+title: Robust Named Entity Recognition with Truecasing Pretraining
+author: Stephen Mayhew, Nitish Gupta, Dan Roth
+url: https://arxiv.org/pdf/1912.07095.pdf
+citation: 0
+tag: arch-rnn, arch-cnn, arch-crf, pre-train
+------------------------------------------------------------------------
+year: 2019
+conf: ACL
+title: GCDT: A Global Context Enhanced Deep Transition Architecture for Sequence Labeling
+author: Yanjun Liu, Fandong Meng, Jinchao Zhang, Jinan Xu, Yufeng Chen, Jie Zhou
+url: https://arxiv.org/pdf/1906.02437.pdf
+citation: 3
+tag: other
+------------------------------------------------------------------------
+year: 2019
+conf: ACL
+title: Label-Agnostic Sequence Labeling by Copying Nearest Neighbors
+author: Sam Wiseman, Karl Stratos
+url: https://arxiv.org/pdf/1906.04225.pdf
+citation: 0
+tag: other
+------------------------------------------------------------------------
+year: 2019
+conf: ACL
+title: Reliability-aware Dynamic Feature Composition for Name Tagging
+author: Mikel Artetxe, Gorka Labaka, Iñigo Lopez-Gazpio, Eneko Agirre
+url: https://arxiv.org/pdf/1809.02094.pdf
+citation: 3
+tag: other
+------------------------------------------------------------------------
+year: 2019
+conf: ACL
+title: Sequence Tagging with Contextual and Non-Contextual Subword Representations: A Multilingual Evaluation
+author: Benjamin Heinzerling, Michael Strube
+url: https://arxiv.org/pdf/1906.01569.pdf
+citation: 1
+tag: other
+------------------------------------------------------------------------
+year: 2019
+conf: ACL
+title: AlpacaTag: An Active Learning-based Crowd Annotation Framework for Sequence Tagging
+author: Bill Yuchen Lin, Dongho Lee, Frank F. Xu, Ouyu Lan, Xiang Ren
+url: https://pdfs.semanticscholar.org/0acb/dcac9edf74cc2c1e98bd59e301c9300977d0.pdf
+citation: 0
+tag: train-active
+------------------------------------------------------------------------
+year: 2019
+conf: ACL
+title: A Joint Named-Entity Recognizer for Heterogeneous Tag-sets Using a Tag Hierarchy
+author: Genady Beryozkin, Yoel Drori, Oren Gilon, Tzvika Hartman, Idan Szpektor
+url: https://arxiv.org/pdf/1905.09135.pdf
+citation: 0
+tag: train-auxiliary, task-hetero
+------------------------------------------------------------------------
+year: 2019
+conf: ACL
+title: Reliability-aware Dynamic Feature Composition for Name Tagging
+author: Mikel Artetxe, Gorka Labaka, Iñigo Lopez-Gazpio, Eneko Agirre
+url: https://arxiv.org/pdf/1809.02094.pdf
+citation: 3
+tag: other
+------------------------------------------------------------------------
+year: 2019
+conf: ACL
+title: Multi-grained Named Entity Recognition
+author: Congying Xia, Chenwei Zhang, Tao Yang, Yaliang Li, Nan Du, Xian Wei Wu, Wei Fan, Fenglong Ma, Philip S. Yu
+url: https://arxiv.org/pdf/1906.08449.pdf
+citation: 2
+tag: task-nested
+------------------------------------------------------------------------
+year: 2019
+conf: ACL
+title: Distantly Supervised Named Entity Recognition using Positive-Unlabeled Learning
+author: Minlong Peng, Xiaoyu Xing, Qi Zhang, Jinlan Fu, Xuanjing Huang
+url: https://arxiv.org/pdf/1906.01378.pdf
+citation: 0
+tag: other
+------------------------------------------------------------------------
+year: 2019
+conf: ACL
+title: Dual Adversarial Neural Transfer for Low-Resource Named Entity Recognition
+author: Joey Tianyi Zhou, Hao Zhang, Di Jin, Hongyuan Zhu, Meng Fang, Rick Siow Mong Goh, Kenneth K Kwok
+url: https://pdfs.semanticscholar.org/e3ca/15ccbec5ee2309031d8d90cec4d87ae11327.pdf
+citation: 5
+tag: train-transfer, train-adver, task-lowres
+------------------------------------------------------------------------
+year: 2019
+conf: ACL
+title: NNE: A Dataset for Nested Named Entity Recognition in English Newswire
+author: Nicky Ringland, Xiang Dai, Ben Hachey, Sarvnaz Karimi, Cécile Paris, James R. Curran
+url: https://arxiv.org/pdf/1906.01359.pdf
+citation: 0
+tag: task-nested, dataset
+------------------------------------------------------------------------
+year: 2019
+conf: ACL
+title: Towards Improving Neural Named Entity Recognition with Gazetteers
+author: Tianyu Liu, Jin-Ge Yao, Chin-Yew Lin
+url: https://www.aclweb.org/anthology/P19-1524.pdf
+citation: 1
+tag: other
+------------------------------------------------------------------------
+year: 2019
+conf: ACL
+title: A Prism Module for Semantic Disentanglement in Name Entity Recognition
+author: Kun Liu, Shen Li, Daqi Zheng, Zhengdong Lu, Sheng Gao, Si Li
+url: https://www.aclweb.org/anthology/P19-1532.pdf
+citation: 0
+tag: other
+------------------------------------------------------------------------
+year: 2019
+conf: ACL
+title: A Semi-Markov Structured Support Vector Machine Model for High-Precision Named Entity Recognition
+author: Ravneet Arora, Chen-Tse Tsai, Ketevan Tsereteli, Prabhanjan Kambadur, Yi Yang
+url: https://doi.org/10.18653/v1%2Fp19-1587
+citation: 0
+tag: arch-semiMarkov
+------------------------------------------------------------------------
+year: 2019
+conf: ACL
+title: Corpus Creation and Analysis for Named Entity Recognition in Telugu-English Code-Mixed Social Media Data
+author: Vamshi Krishna Srirangam, Appidi Abhinav Reddy, Vinay Singh, Manish Shrivastava
+url: https://pdfs.semanticscholar.org/375d/b0b669755db580e8a1cc097439fdb12f36a9.pdf
+citation: 0
+tag: dataset
+------------------------------------------------------------------------
+year: 2019
+conf: ACL
+title: Joint Learning of Named Entity Recognition and Entity Linking
+author: Pedro Henrique Martins, Zita Marinho, André F. T. Martins
+url: https://arxiv.org/pdf/1907.08243.pdf
+citation: 1
+tag: train-auxiliary
+------------------------------------------------------------------------
+year: 2019
+conf: ACL
+title: Towards Robust Named Entity Recognition for Historic German
+author: Stefan Schweter, Johannes Baiter
+url: https://arxiv.org/pdf/1906.07592.pdf
+citation: 1
+tag: other
+------------------------------------------------------------------------
+year: 2019
+conf: ACL
+title: Arabic Named Entity Recognition: What Works and What’s Next
+author: Liyuan Liu, Jingbo Shang, Jiawei Han
+url: https://pdfs.semanticscholar.org/d5ed/c879076d148bfa927832d3cb315f78d2def9.pdf
+citation: 1
+tag: interpret-model
+------------------------------------------------------------------------
+year: 2019
+conf: ACL
+title: A Neural Multi-digraph Model for Chinese NER with Gazetteers
+author: Ruixue Ding, Pengjun Xie, Xiaoyan Zhang, Wei Lu, Linlin Li, Luo Si
+url: https://pdfs.semanticscholar.org/3d8a/bc3465b5ff6d2ee56c7df8b954a1f1978e99.pdf
+citation: 1
+tag: arch-gnn
+------------------------------------------------------------------------
+year: 2019
+conf: ACL
+title: Cross-Domain NER using Cross-Domain Language Modeling
+author: Chen Jia, Liang Xiao, Yue Zhang
+url: https://pdfs.semanticscholar.org/647f/2ce03258c6963fbaa0e86e615a20c27e2c02.pdf
+citation: 0
+tag: train-auxiliary, train-transfer
+------------------------------------------------------------------------
+year: 2019
+conf: ACL
+title: Neural Architectures for Nested NER through Linearization
+author: Guillaume Lample, Miguel Ballesteros, Sandeep Subramanian, Kazuya Kawakami, Chris Dyer
+url: https://arxiv.org/pdf/1603.01360.pdf
+citation: 4
+tag: task-nested
+------------------------------------------------------------------------
+year: 2019
+conf: NAACL
+title: SC-LSTM: Learning Task-Specific Representations in Multi-Task Learning for Sequence Labeling
+author: Peng Lu, Ting Bai, Philippe Langlais
+url: https://pdfs.semanticscholar.org/c3ef/55696985db82c6874dc5e7051e7d01d4811b.pdf
+citation: 0
+tag: arch-rnn, train-multitask
+------------------------------------------------------------------------
+year: 2019
+conf: NAACL
+title: Cross-lingual Multi-Level Adversarial Transfer to Enhance Low-Resource Name Tagging
+author: Lifu Huang, Heng Ji, Jonathan May
+url: https://pdfs.semanticscholar.org/9774/06e0582a33a645e9e6f28af106cd1d7713cc.pdf
+citation: 1
+tag: train-transfer, train-multiling, train-adver, task-lowres
+------------------------------------------------------------------------
+year: 2019
+conf: NAACL
+title: Pooled Contextualized Embeddings for Named Entity Recognition
+author: Alan Akbik, Tanja Bergmann, Roland Vollgraf
+url: https://pdfs.semanticscholar.org/21cc/7a4b3cc7944013f4e97b18f4cdacb3abf143.pdf
+citation: 27
+tag: pre-train
+------------------------------------------------------------------------
+year: 2019
+conf: NAACL
+title: Better Modeling of Incomplete Annotations for Named Entity Recognition
+author: Zhanming Jie, Pengjun Xie, Wei Lu, Ruixue Ding, Linlin Li
+url: https://pdfs.semanticscholar.org/850b/3f1e717c15a05fc60dee4e88e3d072e228ad.pdf
+citation: 4
+tag: other
+------------------------------------------------------------------------
+year: 2019
+conf: NAACL
+title: Knowledge-Augmented Language Model and Its Application to Unsupervised Named-Entity Recognition
+author: Angli Liu, Jingfei Du, Veselin Stoyanov
+url: https://arxiv.org/pdf/1904.04458.pdf
+citation: 2
+tag: train-auxiliary
+------------------------------------------------------------------------
+year: 2019
+conf: NAACL
+title: Practical, Efficient, and Customizable Active Learning for Named Entity Recognition in the Digital Humanities
+author: Alexander Erdmann, David Joseph Wrisley, Benjamin Allen, Christopher Brown, Sophie Cohen-Bodénès, Micha Elsner, Yukun Feng, Brian Joseph, Béatrice Joyeux-Prunel, Marie-Catherine de Marneffe
+url: https://pdfs.semanticscholar.org/c655/3ba88a9234971212d3af14cc04128d1be528.pdf
+citation: 1
+tag: train-active
+------------------------------------------------------------------------
+year: 2019
+conf: NAACL
+title: CAN-NER: Convolutional Attention Network for Chinese Named EntityRecognition
+author: Yuying Zhu, Guoxin Wang, Börje F. Karlsson
+url: https://arxiv.org/pdf/1904.02141.pdf
+citation: 5
+tag: arch-att
+------------------------------------------------------------------------
+year: 2019
+conf: NAACL
+title: Cross-lingual Multi-Level Adversarial Transfer to Enhance Low-Resource Name Tagging
+author: Lifu Huang, Heng Ji, Jonathan May
+url: https://pdfs.semanticscholar.org/9774/06e0582a33a645e9e6f28af106cd1d7713cc.pdf
+citation: 1
+tag: train-transfer, train-multiling, train-adver, task-lowres
+------------------------------------------------------------------------
+year: 2019
+conf: NAACL
+title: Entity Recognition at First Sight: Improving NER with Eye Movement Information
+author: Nora Hollenstein, Ce Zhang
+url: https://www.aclweb.org/anthology/N19-1001.pdf
+citation: 2
+tag: other
+------------------------------------------------------------------------
+year: 2019
+conf: EMNLP
+title: A Boundary-aware Neural Model for Nested Named Entity Recognition
+author: Meizhi Ju, Makoto Miwa, Sophia Ananiadou
+url: https://pdfs.semanticscholar.org/2e7f/5969603db8ba8b63fcb2e38ea520d9fda58c.pdf
+citation: 0
+tag: task-nested
+------------------------------------------------------------------------
+year: 2019
+conf: EMNLP
+title: A Little Annotation does a Lot of Good: A Study in Bootstrapping Low-resource Named Entity Recognizers
+author: Aditi Chaudhary, Jiateng Xie, Zaid Sheikh, Graham Neubig, Jaime G. Carbonell
+url: https://arxiv.org/pdf/1908.08983.pdf
+citation: 1
+tag: train-active, task-lowres
+------------------------------------------------------------------------
+year: 2019
+conf: EMNLP
+title: CrossWeigh: Training Named Entity Tagger from Imperfect Annotations
+author: Zihan Wang, Jingbo Shang, Liyuan Liu, Lihao Lu, Jiacheng Liu, Jiawei Han
+url: https://arxiv.org/pdf/1909.01441.pdf
+citation: 1
+tag: other
+------------------------------------------------------------------------
+year: 2019
+conf: EMNLP
+title: Dependency-Guided LSTM-CRF for Named Entity Recognition
+author: Zhanming Jie, Wei Lu
+url: https://arxiv.org/pdf/1909.10148.pdf
+citation: 1
+tag: arch-rnn, arch-crf
+------------------------------------------------------------------------
+year: 2019
+conf: EMNLP
+title: Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network
+author: Dianbo Sui, Yubo Chen, Kang Liu, Jun Zhao, Shengping Liu
+url: https://www.aclweb.org/anthology/D19-1396.pdf
+citation: 0
+tag: arch-gnn
+------------------------------------------------------------------------
+year: 2019
+conf: EMNLP
+title: Similarity Based Auxiliary Classifier for Named Entity Recognition
+author: Shiyuan Xiao, Yuanxin Ouyang, Wenge Rong, Jianxin Yang, Zhang Xiong
+url: https://pdfs.semanticscholar.org/5538/fba36a2fdd89c3a4fe2970c3c0b539f5d04a.pdf
+citation: 0
+tag: other
+------------------------------------------------------------------------
+year: 2019
+conf: EMNLP
+title: GEANN: Gazetteer-Enhanced Attentive Neural Networks for Named Entity Recognition
+author: Hongyu Lin, Yaojie Lu, Xianpei Han, Le Sun, B. Dong, Shanshan Jiang
+url: https://pdfs.semanticscholar.org/4a6b/600030f7df252e47046bf10a73e94247be26.pdf
+citation: 0
+tag: arch-att
+------------------------------------------------------------------------
+year: 2019
+conf: EMNLP
+title: Hierarchical Meta-Embeddings for Code-switching Named Entity Recognition
+author: Genta Indra Winata, Zhaojiang Lin, Jamin Shin, Zihan Liu, Pascale Fung
+url: https://arxiv.org/pdf/1909.08504.pdf
+citation: 0
+tag: other
+------------------------------------------------------------------------
+year: 2019
+conf: EMNLP
+title: Improved Differentiable Architecture Search for Language Model and Named Entity Recognition
+author: Guillaume Lample, Miguel Ballesteros, Sandeep Subramanian, Kazuya Kawakami, Chris Dyer
+url: https://arxiv.org/pdf/1603.01360.pdf
+citation: 0
+tag: train-auxiliary
+------------------------------------------------------------------------
+year: 2019
+conf: EMNLP
+title: Multi-Task Learning for Chemical Named Entity Recognition with Chemical Compound Paraphrase
+author: Taiki Watanabe, Akihiro Tamura, Takashi Ninomiya, Takuya Makino, Tomoya Iwakura
+url: https://www.aclweb.org/anthology/D19-1648.pdf
+citation: 0
+tag: train-multitask
+------------------------------------------------------------------------
+year: 2019
+conf: EMNLP
+title: Preprocessing Matters for Cross-Lingual Named Entity Recognition
+author: Chen-Tse Tsai, Stephen Mayhew, Dan Roth
+url: https://pdfs.semanticscholar.org/c8a3/a1391845667702d4d5df10be0c5761202cbe.pdf
+citation: 33
+tag: train-multiling
+------------------------------------------------------------------------
+year: 2019
+conf: EMNLP
+title: Feature-Dependent Confusion Matrices for Low-Resource NER Labeling with Noisy Labels
+author: Debjit Paul, Mittul Singh, Michael A. Hedderich, Dietrich Klakow
+url: https://arxiv.org/pdf/1903.12008.pdf
+citation: 1
+tag: task-lowres
+------------------------------------------------------------------------
+year: 2019
+conf: EMNLP
+title: A Bayesian Approach for Sequence Tagging with Crowds
+author: Edwin Simpson, Iryna Gurevych
+url: https://pdfs.semanticscholar.org/1988/8c8d4e3393b91e20b686c8f31fdf19b06380.pdf
+citation: 1
+tag: other
+------------------------------------------------------------------------
+year: 2019
+conf: EMNLP
+title: Fine-grained Knowledge Fusion for Sequence Labeling Domain Adaptation
+author: Nanyun Peng, Mark Dredze
+url: https://arxiv.org/pdf/1608.02689.pdf
+citation: 0
+tag: train-transfer
+------------------------------------------------------------------------
+year: 2019
+conf: EMNLP
+title: Hierarchically-Refined Label Attention Network for Sequence Labeling
+author: Leyang Cui, Yue Zhang
+url: https://arxiv.org/pdf/1908.08676.pdf
+citation: 0
+tag: arch-att
+------------------------------------------------------------------------
+year: 2019
+conf: EMNLP
+title: Low-Resource Sequence Labeling via Unsupervised Multilingual Contextualized Representations
+author: Ryan Cotterell, Kevin Duh
+url: https://pdfs.semanticscholar.org/2810/5f29871aa490082f3d756961d41ab65d2d4c.pdf
+citation: 0
+tag: pre-train, task-lowres
+------------------------------------------------------------------------
+year: 2019
+conf: EMNLP
+title: Unsupervised Domain Adaptation of Contextualized Embeddings for Sequence Labeling
+author: Xiaochuang Han, Jacob Eisenstein
+url: https://pdfs.semanticscholar.org/7c31/207452922e7db7220b15dcbdeb3978f7ec4a.pdf
+citation: 4
+tag: train-transfer, pre-train
+------------------------------------------------------------------------
+year: 2019
+conf: EMNLP
+title: What Matters for Neural Cross-Lingual Named Entity Recognition: An Empirical Analysis
+author: Xiaolei Huang, Jonathan May, Nanyun Peng
+url: https://www.aclweb.org/anthology/D19-1672.pdf
+citation: 0
+tag: intepret
+------------------------------------------------------------------------
+year: 2019
+conf: EMNLP
+title: A Lexicon-Based Graph Neural Network for Chinese NER
+author: Tao Gui, Yicheng Zou, Qi Zhang, Minlong Peng, Jinlan Fu, Zhongyu Wei, Xuanjing Huang
+url: https://www.aclweb.org/anthology/D19-1096.pdf
+citation: 1
+tag: arch-gnn
+------------------------------------------------------------------------
+year: 2019
+conf: AAAI
+title: A Neural Multi-Task Learning Framework to Jointly Model Medical Named Entity Recognition and Normalization
+author: Sendong Zhao, Ting Liu, Sicheng Zhao, Fei Wang
+url: https://arxiv.org/pdf/1812.06081.pdf
+citation: 4
+tag: train-multitask, train-auxiliary
+------------------------------------------------------------------------
+year: 2019
+conf: AAAI
+title: GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition
+author: Hui Chen, Zijia Lin, Guiguang Ding, Jian-Guang Lou, Yusen Zhang, Börje F. Karlsson
+url: https://arxiv.org/pdf/1907.05611.pdf
+citation: 4
+tag: arch-cnn
+------------------------------------------------------------------------
+year: 2019
+conf: AAAI
+title: Chinese NER with Height-Limited Constituent Parsing
+author: Rui Wang, Xin Xin, Wei Tang Chang, Kun Ming, Biao Li, Xin Fan
+url: https://www.aaai.org/ojs/index.php/AAAI/article/view/4699
+citation: 0
+tag: other
+------------------------------------------------------------------------
+year: 2019
+conf: AAAI
+title: Transfer Learning Only Using the Source Model and the Target Data for Sequence Labeling Tasks
+author: Lingzhen Chen, Alessandro Moschitti
+url: https://arxiv.org/pdf/1902.05309.pdf
+citation: 2
+tag: train-transfer
+------------------------------------------------------------------------
+year: 2019
+conf: IJCAI
+title: CNN-Based Chinese NER with Lexicon Rethinking
+author: Tao Gui, Ruotian Ma, Qi Zhang, Lujun Zhao, Yu-Gang Jiang, Xuanjing Huang
+url: https://pdfs.semanticscholar.org/1698/d96c6fffee9ec969e07a58bab62cb4836614.pdf
+citation: 3
+tag: arch-cnn
+------------------------------------------------------------------------
+year: 2019
+conf: IJCAI
+title: Coreference Aware Representation Learning for Neural Named Entity Recognition
+author: Zeyu Dai, Hongliang Fei, Ping Li
+url: https://pdfs.semanticscholar.org/607b/cd32e37b5e08e846fc96007c104a65c50b98.pdf
+citation: 1
+tag: other
+------------------------------------------------------------------------
+year: 2019
+conf: IJCAI
+title: Adversarial Transfer for Named Entity Boundary Detection with Pointer Networks
+author: Jing Li, Deheng Ye, Shuo Shang
+url: https://www.ijcai.org/proceedings/2019/0702.pdf
+citation: 1
+tag: train-transfer, train-adver
+------------------------------------------------------------------------
+year: 2019
+conf: IJCAI
+title: Learning Task-specific Representation for Novel Words in Sequence Labeling
+author: Minlong Peng, Qi Zhang, Xiaoyu Xing, Tao Gui, Jinlan Fu, Xuanjing Huang
+url: https://arxiv.org/pdf/1905.12277.pdf
+citation: 0
+tag: other
+------------------------------------------------------------------------
+year: 2018
+conf: ACL
+title: A Multi-lingual Multi-task Architecture for Low-resource Sequence Labeling
+author: Ying Lin, Shengqi Yang, Veselin Stoyanov, Heng Ji
+url: https://pdfs.semanticscholar.org/5332/ba8db0c732f8cb9207375d10cfea45f27a72.pdf
+citation: 27
+tag: train-multitask, train-multiling, task-lowres
+------------------------------------------------------------------------
+year: 2018
+conf: ACL
+title: Hybrid semi-Markov CRF for Neural Sequence Labeling
+author: Zhi-Xiu Ye, Zhen-Hua Ling
+url: https://arxiv.org/pdf/1805.03838.pdf
+citation: 12
+tag: arch-crf, arch-semiMarkov
+------------------------------------------------------------------------
+year: 2018
+conf: ACL
+title: Visual Attention Model for Name Tagging in Multimodal Social Media
+author: Di Lu, Leonardo Neves, Vitor Carvalho, Ning Zhang, Heng Ji
+url: https://pdfs.semanticscholar.org/df7f/6ec612722399458203ed27e6ca57ee31297e.pdf
+citation: 7
+tag: arch-att, train-multimodal
+------------------------------------------------------------------------
+year: 2018
+conf: ACL
+title: Chinese NER Using Lattice LSTM
+author: Yue Zhang, Jie Yang
+url: https://arxiv.org/pdf/1805.02023.pdf
+citation: 52
+tag: arch-rnn
+------------------------------------------------------------------------
+year: 2018
+conf: ACL
+title: Multimodal Named Entity Disambiguation for Noisy Social Media Posts
+author: Seungwhan Moon, Leonardo Neves, Vitor Carvalho
+url: https://pdfs.semanticscholar.org/eae4/830b237d0ccb853ff729e31035ca8220fbed.pdf
+citation: 8
+tag: train-multimodal
+------------------------------------------------------------------------
+year: 2018
+conf: ACL
+title: Building Language Models for Text with Named Entities
+author: Md. Rizwan Parvez, Saikat Chakraborty, Baishakhi Ray, Kai-Wei Chang
+url: https://arxiv.org/pdf/1805.04836.pdf
+citation: 4
+tag: train-auxiliary
+------------------------------------------------------------------------
+year: 2018
+conf: ACL
+title: Named Entity Recognition With Parallel Recurrent Neural Networks
+author: Andrej Zukov Gregoric, Yoram Bachrach, Sam Coope
+url: https://pdfs.semanticscholar.org/2400/9c069ace3a8dc8c6f1ca2fdaa6392363e361.pdf
+citation: 10
+tag: arch-rnn
+------------------------------------------------------------------------
+year: 2018
+conf: ACL
+title: A Named Entity Recognition Shootout for German
+author: Martin Riedl, Sebastian Padó
+url: https://pdfs.semanticscholar.org/98ce/1f4a52bdf9dd2a1319b9d63187f5397fe95a.pdf
+citation: 5
+tag: other
+------------------------------------------------------------------------
+year: 2018
+conf: ACL
+title: A Study of the Importance of External Knowledge in the Named Entity Recognition Task
+author: Dominic Seyler, Tatiana Dembelova, Luciano Del Corro, Johannes Hoffart, Gerhard Weikum
+url: https://pdfs.semanticscholar.org/c033/4f94c00860a8460c51c74b03f1c7a3cb91bc.pdf
+citation: 5
+tag: other
+------------------------------------------------------------------------
+year: 2018
+conf: ACL
+title: Improving Topic Quality by Promoting Named Entities in Topic Modeling
+author: Katsiaryna Krasnashchok, Salim Jouili
+url: https://pdfs.semanticscholar.org/ee82/a76272b6862c2e24b8f89754bba6c1cb1f7d.pdf
+citation: 4
+tag: other
+------------------------------------------------------------------------
+year: 2018
+conf: NAACL
+title: Label-Aware Double Transfer Learning for Cross-Specialty Medical Named Entity Recognition
+author: Zhenghui Wang, Yanru Qu, Liheng Chen, Jian Shen, Weinan Zhang, Shaodian Zhang, Yimei Gao, Gen Gu, Ken Chen, Yong Yu
+url: https://arxiv.org/pdf/1804.09021.pdf
+citation: 11
+tag: train-transfer
+------------------------------------------------------------------------
+year: 2018
+conf: NAACL
+title: Multimodal Named Entity Recognition for Short Social Media Posts
+author: Seungwhan Moon, Leonardo Neves, Vitor Carvalho
+url: https://arxiv.org/pdf/1802.07862.pdf
+citation: 15
+tag: train-multimodal
+------------------------------------------------------------------------
+year: 2018
+conf: NAACL
+title: Nested Named Entity Recognition Revisited
+author: Arzoo Katiyar, Claire Cardie
+url: https://pdfs.semanticscholar.org/13c9/790684810161bffa9cf511a60d2471469bac.pdf
+citation: 25
+tag: task-nested
+------------------------------------------------------------------------
+year: 2018
+conf: NAACL
+title: Modeling Noisiness to Recognize Named Entities using Multitask Neural Networks on Social Media
+author: Gustavo Aguilar, Adrián Pastor López-Monroy, Fabio A. González, Thamar Solorio
+url: https://arxiv.org/pdf/1906.04129.pdf
+citation: 12
+tag: other
+------------------------------------------------------------------------
+year: 2018
+conf: NAACL
+title: A Neural Layered Model for Nested Named Entity Recognition
+author: Meizhi Ju, Makoto Miwa, Sophia Ananiadou
+url: https://pdfs.semanticscholar.org/2e7f/5969603db8ba8b63fcb2e38ea520d9fda58c.pdf
+citation: 34
+tag: task-nested
+------------------------------------------------------------------------
+year: 2018
+conf: EMNLP
+title: Efficient Contextualized Representation: Language Model Pruning for Sequence Labeling
+author: Liyuan Liu, Xiang Ren, Jingbo Shang, Juan Peng, Jiawei Han
+url: https://arxiv.org/pdf/1804.07827.pdf
+citation: 10
+tag: train-auxiliary, pre-train
+------------------------------------------------------------------------
+year: 2018
+conf: EMNLP
+title: Learning Better Internal Structure of Words for Sequence Labeling
+author: Yingwei Xin, Ethan Hart, Vibhuti Mahajan, Jean-David Ruvini
+url: https://arxiv.org/pdf/1810.12443.pdf
+citation: 3
+tag: other
+------------------------------------------------------------------------
+year: 2018
+conf: EMNLP
+title: Adversarial Transfer Learning for Chinese Named Entity Recognition with Self-Attention Mechanism
+author: Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, Shengping Liu
+url: https://pdfs.semanticscholar.org/5860/a361b9987572405b71a6b78d9bce347d1c40.pdf
+citation: 20
+tag: arch-att, train-transfer, train-adver
+------------------------------------------------------------------------
+year: 2018
+conf: EMNLP
+title: Neural Cross-Lingual Named Entity Recognition with Minimal Resources
+author: Jiateng Xie, Zhilin Yang, Graham Neubig, Noah A. Smith, Jaime G. Carbonell
+url: https://arxiv.org/pdf/1808.09861.pdf
+citation: 31
+tag: train-multiling
+------------------------------------------------------------------------
+year: 2018
+conf: EMNLP
+title: Neural Adaptation Layers for Cross-domain Named Entity Recognition
+author: Bill Yuchen Lin, Wei Lu
+url: https://arxiv.org/pdf/1810.06368.pdf
+citation: 11
+tag: train-transfer
+------------------------------------------------------------------------
+year: 2018
+conf: EMNLP
+title: Learning Named Entity Tagger using Domain-Specific Dictionary
+author: Jingbo Shang, Liyuan Liu, Xiang Ren, Xiaotao Gu, Teng Ren, Jiawei Han
+url: https://arxiv.org/pdf/1809.03599.pdf
+citation: 20
+tag: other
+------------------------------------------------------------------------
+year: 2018
+conf: EMNLP
+title: Marginal Likelihood Training of BiLSTM-CRF for Biomedical Named Entity Recognition from Disjoint Label Sets
+author: Nathan Greenberg, Trapit Bansal, Pat Verga, Andrew McCallum
+url: https://pdfs.semanticscholar.org/5eee/280d8cba0956ec410a7cdccc49d1611a6168.pdf
+citation: 17
+tag: arch-rnn, arch-crf, train-auxiliary
+------------------------------------------------------------------------
+year: 2018
+conf: EMNLP
+title: Deep Exhaustive Model for Nested Named Entity Recognition
+author: Mohammad Golam Sohrab, Makoto Miwa
+url: https://pdfs.semanticscholar.org/eb87/4d77609baeb1f226b5db4ca8770b343f4ce8.pdf
+citation: 10
+tag: task-nested
+------------------------------------------------------------------------
+year: 2018
+conf: EMNLP
+title: On the Strength of Character Language Models for Multilingual Named Entity Recognition
+author: Xiaodong Yu, Stephen Mayhew, Mark Sammons, Dan Roth
+url: https://arxiv.org/pdf/1809.05157.pdf
+citation: 3
+tag: train-auxiliary
+------------------------------------------------------------------------
+year: 2018
+conf: AAAI
+title: Adaptive Co-attention Network for Named Entity Recognition in Tweet
+author: Qi Zhang, Jinlan Fu, Xiaoyu Liu, Xuanjing Huang
+url: https://pdfs.semanticscholar.org/5ca1/c595708d22d92b3f913be391575560bdab2c.pdf
+citation: 20
+tag: dataset, arch-att, train-multimodal
+------------------------------------------------------------------------
+year: 2018
+conf: AAAI
+title: OTyper : A Neural Architecture for Open Named Entity Typing
+author: Zheng Yuan, Doug Downey
+url: https://pdfs.semanticscholar.org/bd91/3a1c95082ac378ed6946569efecc98b6d047.pdf
+citation: 3
+tag: other
+------------------------------------------------------------------------
+year: 2018
+conf: AAAI
+title: Adversarial Learning for Chinese NER from Crowd Annotation
+author: YaoSheng Yang, Meishan Zhang, Wenliang Chen, Wei Zhang, Haofen Wang, Min Zhang
+url: https://arxiv.org/pdf/1801.05147.pdf
+citation: 8
+tag: train-adver
+------------------------------------------------------------------------
+year: 2018
+conf: AAAI
+title: Empower Sequence Labeling with Task-Aware Neural Language Model
+author: Liyuan Liu, Jingbo Shang, Xiang Ren, Frank F. Xu, Huan Gui, Jian Peng, Jiawei Han
+url: https://arxiv.org/pdf/1709.04109.pdf
+citation: 118
+tag: train-auxiliary
+------------------------------------------------------------------------
+year: 2018
+conf: ICLR
+title: Deep Active Learning for Named Entity Recognition
+author: Yanyao Shen, Hyokun Yun, Zachary Lipton, Yakov Kronrod, Animashree Anandkumar
+url: https://www.aclweb.org/anthology/W17-2630.pdf
+citation: 73
+tag: train-active
+------------------------------------------------------------------------
+year: 2018
+conf: IJCAI
+title: Improving Low Resource Named Entity Recognition using Cross-lingual Knowledge Transfer
+author: Xiaocheng Feng, Xiachong Feng, Bing Qin, Zhangyin Feng, Ting Liu
+url: https://pdfs.semanticscholar.org/6343/2c9c90dd0bf0d23ab016c2c039bbb0086ba2.pdf
+citation: 10
+tag: train-transfer, train-multiling
+------------------------------------------------------------------------
+year: 2018
+conf: IJCAI
+title: Learning Tag Dependencies for Sequence Tagging
+author: Yuan Zhang, Hongshen Chen, Yihong Zhao, Qun Liu, Dawei Yin
+url: https://pdfs.semanticscholar.org/9e49/6d85869a9ab023d01a742f20bc32bcb446b6.pdf
+citation: 5
+tag: other
+------------------------------------------------------------------------
+year: 2017
+conf: ACL
+title: Semi-supervised Multitask Learning for Sequence Labeling
+author: Marek Rei
+url: https://arxiv.org/pdf/1704.07156.pdf
+citation: 105
+tag: arch-rnn, train-multitask
+------------------------------------------------------------------------
+year: 2017
+conf: ACL
+title: Semi-supervised sequence tagging with bidirectional language models
+author: Matthew E. Peters, Waleed Ammar, Chandra Bhagavatula, Russell Power
+url: https://arxiv.org/pdf/1705.00108.pdf
+citation: 212
+tag: train-auxiliary
+------------------------------------------------------------------------
+year: 2017
+conf: ACL
+title: Cross-lingual Name Tagging and Linking for 282 Languages
+author: Xiaoman Pan, Boliang Zhang, Jonathan May, Joel Nothman, Kevin Knight, Heng Ji
+url: https://pdfs.semanticscholar.org/6162/53f6b1e83ede361457de2f51b0bf70555b13.pdf
+citation: 42
+tag: train-multiling
+------------------------------------------------------------------------
+year: 2017
+conf: ACL
+title: A Local Detection Approach for Named Entity Recognition and Mention Detection
+author: Mingbin Xu, Hui Jiang, Sedtawut Watcharawittayakul
+url: https://pdfs.semanticscholar.org/7194/1248d1e3d78e9a81e5cca3a566b875e10d3b.pdf
+citation: 38
+tag: other
+------------------------------------------------------------------------
+year: 2017
+conf: ACL
+title: Weakly Supervised Cross-Lingual Named Entity Recognition via Effective Annotation and Representation Projection
+author: Jian Ni, Georgiana Dinu, Radu Florian
+url: https://arxiv.org/pdf/1707.02483.pdf
+citation: 29
+tag: train-multiling
+------------------------------------------------------------------------
+year: 2017
+conf: ACL
+title: English Multiword Expression-aware Dependency Parsing Including Named Entities
+author: Akihiko Kato, Hiroyuki Shindo, Yuji Matsumoto
+url: https://pdfs.semanticscholar.org/7878/37d2984bf7f78535467f087e6618ae8ecc87.pdf
+citation: 1
+tag: other
+------------------------------------------------------------------------
+year: 2017
+conf: EMNLP
+title: Reporting Score Distributions Makes a Difference: Performance Study of LSTM-networks for Sequence Tagging
+author: Nils Reimers, Iryna Gurevych
+url: https://arxiv.org/pdf/1707.09861.pdf
+citation: 165
+tag: arch-rnn
+------------------------------------------------------------------------
+year: 2017
+conf: EMNLP
+title: Cheap Translation for Cross-Lingual Named Entity Recognition
+author: Stephen Mayhew, Chen-Tse Tsai, Dan Roth
+url: https://pdfs.semanticscholar.org/78a9/91c89c9f3ef7b138f8b3f22e83d1b101b6b0.pdf
+citation: 33
+tag: train-multiling
+------------------------------------------------------------------------
+year: 2017
+conf: EMNLP
+title: Leveraging Linguistic Structures for Named Entity Recognition with Bidirectional Recursive Neural Networks
+author: Peng-Hsuan Li, Ruo-Ping Dong, Yu-Siang Wang, Ju-Chieh Chou, Wei-Yun Ma
+url: https://pdfs.semanticscholar.org/c4a8/86bdb35f240d545b01a7bdb3bf9d710e07c6.pdf
+citation: 12
+tag: arch-rnn
+------------------------------------------------------------------------
+year: 2017
+conf: EMNLP
+title: NeuroNER: an easy-to-use program for named-entity recognition based on neural networks
+author: Franck Dernoncourt, Ji Young Lee, Peter Szolovits
+url: https://arxiv.org/pdf/1705.05487.pdf
+citation: 85
+tag: arch-rnn
+------------------------------------------------------------------------
+year: 2017
+conf: EMNLP
+title: NITE: A Neural Inductive Teaching Framework for Domain Specific NER
+author: Siliang Tang, Ning Zhang, Jinjiang Zhang, Fei Wu, Yueting Zhuang
+url: https://www.aclweb.org/anthology/D17-1280.pdf
+citation: 3
+tag: other
+------------------------------------------------------------------------
+year: 2017
+conf: AAAI
+title: Efficient Dependency-Guided Named Entity Recognition
+author: Zhanming Jie, Aldrian Obaja Muis, Wei Lu
+url: https://arxiv.org/pdf/1810.08436.pdf
+citation: 15
+tag: other
+------------------------------------------------------------------------
+year: 2017
+conf: AAAI
+title: A Unified Model for Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese Social Media
+author: Hangfeng He, Xu Sun
+url: https://pdfs.semanticscholar.org/581e/200ec1e1317faf3895ab6ed464c5a161ed2b.pdf
+citation: 40
+tag: train-transfer
+------------------------------------------------------------------------
+year: 2017
+conf: ICLR
+title: Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks
+author: Zhilin Yang, Ruslan Salakhutdinov, William W. Cohen
+url: https://arxiv.org/pdf/1703.06345.pdf
+citation: 140
+tag: arch-rnn, arch-cnn, arch-crf, train-transfer
+------------------------------------------------------------------------
+year: 2016
+conf: ACL
+title: End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF
+author: Xuezhe Ma, Eduard H. Hovy
+url: https://arxiv.org/pdf/1603.01354.pdf
+citation: 978
+tag: arch-rnn, arch-cnn, arch-crf
+------------------------------------------------------------------------
+year: 2016
+conf: ACL
+title: Alleviating Poor Context with Background Knowledge for Named Entity Disambiguation
+author: Ander Barrena, Aitor Soroa, Eneko Agirre
+url: https://www.aclweb.org/anthology/P16-1179.pdf
+citation: 4
+tag: other
+------------------------------------------------------------------------
+year: 2016
+conf: ACL
+title: Recurrent neural network models for disease name recognition using domain invariant features
+author: Sunil Kumar Sahu, Ashish Anand
+url: https://arxiv.org/pdf/1606.09371.pdf
+citation: 34
+tag: arch-rnn
+------------------------------------------------------------------------
+year: 2016
+conf: ACL
+title: Domain Specific Named Entity Recognition Referring to the Real World by Deep Neural Networks
+author: Suzushi Tomori, Takashi Ninomiya, Shinsuke Mori
+url: https://pdfs.semanticscholar.org/b616/c6a2c50100d49184a8c5676965f8fd9dc4eb.pdf
+citation: 8
+tag: other
+------------------------------------------------------------------------
+year: 2016
+conf: ACL
+title: Bootstrapped Text-level Named Entity Recognition for Literature
+author: Julian Brooke, Adam Hammond, Timothy Baldwin
+url: https://pdfs.semanticscholar.org/6115/699ee0b8c3cf797be394382f84a17fa9c473.pdf
+citation: 13
+tag: train-active
+------------------------------------------------------------------------
+year: 2016
+conf: ACL
+title: Improving Named Entity Recognition for Chinese Social Media with Word Segmentation Representation Learning
+author: Nanyun Peng, Mark Dredze
+url: https://arxiv.org/pdf/1603.00786.pdf
+citation: 83
+tag: train-auxiliary
+------------------------------------------------------------------------
+year: 2016
+conf: EMNLP
+title: Fast Coupled Sequence Labeling on Heterogeneous Annotations via Context-aware Pruning
+author: Zhenghua Li, Jiayuan Chao, Min Zhang, Jiwen Yang
+url: https://pdfs.semanticscholar.org/2f1b/ede073ff7c8136e66df22d3feaabef5747ac.pdf
+citation: 6
+tag: task-hetero
+------------------------------------------------------------------------
+year: 2016
+conf: EMNLP
+title: Structured prediction models for RNN based sequence labeling in clinical text
+author: Abhyuday Jagannatha, Hong Yu
+url: https://pdfs.semanticscholar.org/4acf/3db41f1c34cf8d568ecd198820f9993da03c.pdf
+citation: 94
+tag: arch-rnn
+------------------------------------------------------------------------
+year: 2016
+conf: EMNLP
+title: Generating Abbreviations for Chinese Named Entities Using Recurrent Neural Network with Dynamic Dictionary
+author: Qi Zhang, Jin Qian, Ya Guo, Yaqian Zhou, Xuanjing Huang
+url: https://pdfs.semanticscholar.org/2636/2bf123d93f1d2cc268b3086473ad7373119d.pdf
+citation: 1
+tag: arch-rnn
+------------------------------------------------------------------------
+year: 2016
+conf: EMNLP
+title: Named Entity Recognition for Novel Types by Transfer Learning
+author: Lizhen Qu, Gabriela Ferraro, Liyuan Zhou, Weiwei Hou, Timothy Baldwin
+url: https://arxiv.org/pdf/1610.09914.pdf
+citation: 22
+tag: train-transfer
+------------------------------------------------------------------------
+year: 2016
+conf: EMNLP
+title: Improving Multilingual Named Entity Recognition with Wikipedia Entity Type Mapping
+author: Jian Ni, Radu Florian
+url: https://arxiv.org/pdf/1707.02459.pdf
+citation: 16
+tag: other
+------------------------------------------------------------------------
+year: 2016
+conf: EMNLP
+title: Phonologically Aware Neural Model for Named Entity Recognition in Low Resource Transfer Settings
+author: Akash Bharadwaj, David R. Mortensen, Chris Dyer, Jaime G. Carbonell
+url: https://pdfs.semanticscholar.org/f1a8/ff5542ffd51c3618953e5cf926c467154f79.pdf
+citation: 34
+tag: train-transfer
+------------------------------------------------------------------------
+year: 2016
+conf: NAACL
+title: Name Tagging for Low-resource Incident Languages based on Expectation-driven Learning
+author: Boliang Zhang, Xiaoman Pan, Tianlu Wang, Ashish Vaswani, Heng Ji, Kevin Knight, Daniel Marcu
+url: https://pdfs.semanticscholar.org/5d4f/e3d113fa2b59620dac76026eb12cd38d2cb7.pdf
+citation: 22
+tag: task-lowres
+------------------------------------------------------------------------
+year: 2016
+conf: NAACL
+title: Neural Architectures for Named Entity Recognition
+author: Guillaume Lample, Miguel Ballesteros, Sandeep Subramanian, Kazuya Kawakami, Chris Dyer
+url: https://www.aclweb.org/anthology/N16-1030.pdf
+citation: 1466
+tag: arch-rnn, arch-crf
+------------------------------------------------------------------------
+year: 2016
+conf: NAACL
+title: An Empirical Study of Automatic Chinese Word Segmentation for Spoken Language Understanding and Named Entity Recognition
+author: Wencan Luo, Fan Yang
+url: https://pdfs.semanticscholar.org/45d9/98877bce6b11cfaa273ceaa27c44cf101ad5.pdf
+citation: 6
+tag: other
+------------------------------------------------------------------------
+year: 2015
+conf: ACL
+title: Low-Rank Regularization for Sparse Conjunctive Feature Spaces: An Application to Named Entity Classification
+author: Audi Primadhanty, Xavier Carreras, Ariadna Quattoni
+url: https://pdfs.semanticscholar.org/983f/169e7989d0b0d7f5a221723c221b1e558a60.pdf
+citation: 8
+tag: other
+------------------------------------------------------------------------
+year: 2015
+conf: ACL
+title: Improving Named Entity Recognition in Tweets via Detecting Non-Standard Words
+author: Chen Li, Yang P. Liu
+url: https://pdfs.semanticscholar.org/67fb/020f576ce96907bf4affc919a14b7450b5a7.pdf
+citation: 17
+tag: other
+------------------------------------------------------------------------
+year: 2015
+conf: EMNLP
+title: Named entity recognition with document-specific KB tag gazetteers
+author: Will Radford, Xavier Carreras, James Henderson
+url: https://pdfs.semanticscholar.org/0da9/4649fbba4363393871188764ef784c26bb99.pdf
+citation: 17
+tag: other
+------------------------------------------------------------------------
+year: 2015
+conf: EMNLP
+title: Named Entity Recognition for Chinese Social Media with Jointly Trained Embeddings
+author: Nanyun Peng, Mark Dredze
+url: https://pdfs.semanticscholar.org/0962/f2a4452d7232fb031699ae933dccc77e5da0.pdf
+citation: 83
+tag: train-auxiliary
+------------------------------------------------------------------------
+year: 2015
+conf: EMNLP
+title: FINET: Context-Aware Fine-Grained Named Entity Typing
+author: Luciano Del Corro, Abdalghani Abujabal, Rainer Gemulla, Gerhard Weikum
+url: https://pdfs.semanticscholar.org/2af0/4968f22a1828a526427e2427211799dcc5af.pdf
+citation: 42
+tag: other
+------------------------------------------------------------------------
+year: 2015
+conf: NAACL
+title: Enhancing Sumerian Lemmatization by Unsupervised Named-Entity Recognition
+author: Yudong Liu, Clinton Burkhart, James Hearne, Liang Luo
+url: https://pdfs.semanticscholar.org/7992/d9e07b086aa639479d12b1dbda99891f0dbb.pdf
+citation: 7
+tag: other
+------------------------------------------------------------------------
+year: 2015
+conf: NAACL
+title: The Unreasonable Effectiveness of Word Representations for Twitter Named Entity Recognition
+author: Colin Cherry, Hongyu Guo
+url: https://pdfs.semanticscholar.org/9326/d2d9ea9b737ce484cdaa79cc22fb712d617b.pdf
+citation: 40
+tag: other
+------------------------------------------------------------------------
+year: 2015
+conf: AAAI
+title: Named Entity Recognition in Travel-Related Search Queries
+author: Brooke Cowan, Sven Zethelius, Brittany Luk, Teodora Baras, Prachi Ukarde, Daodao Zhang
+url: https://pdfs.semanticscholar.org/2da4/0f5dda818aea7cca17affa976735c0452cb6.pdf
+citation: 8
+tag: other
+------------------------------------------------------------------------
+year: 2013
+conf: ACL
+title: Named Entity Recognition using Cross-lingual Resources: Arabic as an Example
+author: Kareem Darwish
+url: https://pdfs.semanticscholar.org/b64c/73e3ca26415b5620cfcff3355bd8611bd38b.pdf
+citation: 47
+tag: train-multiling
+------------------------------------------------------------------------
+year: 2013
+conf: ACL
+title: Joint Word Alignment and Bilingual Named Entity Recognition Using Dual Decomposition
+author: Mengqiu Wang, Wanxiang Che, Christopher D. Manning
+url: https://pdfs.semanticscholar.org/b79b/12fb29ce3f47f9544551aa4cd1f49776ef03.pdf
+citation: 50
+tag: train-auxiliary
+------------------------------------------------------------------------
+year: 2013
+conf: NAACL
+title: Named Entity Recognition with Bilingual Constraints
+author: Wanxiang Che, Mengqiu Wang, Christopher D. Manning, Ting Liu
+url: https://pdfs.semanticscholar.org/3dd6/3c9b5ea5df6ec020a34bf8ea7c1bf15997c7.pdf
+citation: 65
+tag: train-multiling
+------------------------------------------------------------------------
+year: 2014
+conf: NAACL
+title: Focused training sets to reduce noise in NER feature models
+author: Amber McKenzie
+url: https://www.aclweb.org/anthology/N13-1042.pdf
+citation: 3
+tag: other
+------------------------------------------------------------------------
+year: 2013
+conf: NAACL
+title: Combining multiple information types in Bayesian word segmentation
+author: Gabriel Doyle, Roger Levy
+url: https://pdfs.semanticscholar.org/b8fb/8ab8f54a6efd06a869ca4877da22022c80e7.pdf
+citation: 10
+tag: other
+------------------------------------------------------------------------
+year: 2013
+conf: AAAI
+title: Effective Bilingual Constraints for Semi-supervised Learning of Named Entity Recognizers
+author: Mengqiu Wang, Wanxiang Che, Christopher D. Manning
+url: https://pdfs.semanticscholar.org/7b87/611252e49e154bcc38fa172043b9b3273299.pdf
+citation: 25
+tag: train-multiling
+------------------------------------------------------------------------
+year: 2018
+conf: COLING
+title: Design Challenges in Named Entity Transliteration
+author: Yuval Merhav,Stephen Ash
+url: https://arxiv.org/pdf/1808.02563.pdf
+citation: 3
+tag: other
+------------------------------------------------------------------------
+year: 2018
+conf: COLING
+title: Exploiting Structure in Representation of Named Entities using Active Learning
+author: Nikita Bhutani, Kun Qian, Yunyao Li, H. V. Jagadish, Mauricio Hernandez, Mitesh Vasa
+url: https://arxiv.org/pdf/1808.02563.pdf
+citation: 2
+tag: train-active
+------------------------------------------------------------------------
+year: 2018
+conf: COLING
+title: An Empirical Study on Fine-Grained Named Entity Recognition
+author: Khai Mai,Thai-Hoang Pham,Minh Trung Nguyen,Nguyen Tuan Duc,Danushka Bollegala,Ryohei Sasano,Satoshi Sekine
+url: https://pdfs.semanticscholar.org/e0aa/2c66b2e4c4d00b94b36eac9a64ab5c9b4dc0.pdf
+citation: 6
+tag: other
+------------------------------------------------------------------------
+year: 2018
+conf: COLING
+title: Robust Lexical Features for Improved Neural Network Named-Entity Recognition
+author: Abbas Ghaddar,Philippe Langlais
+url: https://arxiv.org/pdf/1806.03489.pdf
+citation: 19
+tag: other
+------------------------------------------------------------------------
+year: 2018
+conf: COLING
+title: Improving Named Entity Recognition by Jointly Learning to Disambiguate Morphological Tags
+author: Onur Güngör,Suzan Üsküdarli,Tunga Güngör
+url: https://arxiv.org/pdf/1807.06683.pdf
+citation: 7
+tag: train-auxiliary
+------------------------------------------------------------------------
+year: 2018
+conf: COLING
+title: A Survey on Recent Advances in Named Entity Recognition from Deep Learning models
+author: Vikas Yadav,Steven Bethard
+url: https://arxiv.org/pdf/1910.11470.pdf
+citation: 67
+tag: other
+------------------------------------------------------------------------
+year: 2018
+conf: COLING
+title: An Exploration of Three Lightly-supervised Representation Learning Approaches for Named Entity Classification
+author: Ajay Nagesh,Mihai Surdeanu
+url: https://pdfs.semanticscholar.org/8469/1947069619e8959aabe446895eb604f6de88.pdf
+citation: 4
+tag: other
+------------------------------------------------------------------------
+year: 2018
+conf: COLING
+title: Design Challenges and Misconceptions in Neural Sequence Labeling
+author: Jie Yang, Shuailong Liang, Yue Zhang
+url: https://arxiv.org/pdf/1806.04470.pdf
+citation: 49
+tag: interpret-model
+------------------------------------------------------------------------
+year: 2018
+conf: COLING
+title: Distantly Supervised NER with Partial Annotation Learning and Reinforcement Learning
+author: YaoSheng Yang,Wenliang Chen,Zhenghua Li,Zhengqiu He,Min Zhang
+url: https://pdfs.semanticscholar.org/9ff9/290fad300a15770806de936f5b84cd68667c.pdf
+citation: 11
+tag: other
+------------------------------------------------------------------------
+year: 2016
+conf: COLING
+title: Mongolian Named Entity Recognition System with Rich Features
+author: Weihua Wang,Feilong Bao,Guanglai Gao
+url: https://pdfs.semanticscholar.org/3824/e7d10a8aa6753410dd82fc86c9cf3ce91088.pdf
+citation: 6
+tag: other
+------------------------------------------------------------------------
+year: 2016
+conf: COLING
+title: CharNER: Character-Level Named Entity Recognition
+author: Onur Kuru,Ozan Arkan Can,Deniz Yuret
+url: https://pdfs.semanticscholar.org/d95f/72fd2c84a4c412eb519b660e402db51d154a.pdf
+citation: 50
+tag: arch-char
+------------------------------------------------------------------------
+year: 2016
+conf: COLING
+title: Named Entity Recognition for Linguistic Rapid Response in Low-Resource Languages: Sorani Kurdish and Tajik
+author: Patrick Littell,Kartik Goyal,David R. Mortensen,Alexa Little,Chris Dyer,Lori S. Levin
+url: https://pdfs.semanticscholar.org/2c7b/93091ffbd55d1ee53ded88a5b5c615443c37.pdf
+citation: 4
+tag: task-lowres
+------------------------------------------------------------------------
+year: 2016
+conf: COLING
+title: Broad Twitter Corpus: A Diverse Named Entity Recognition Resource
+author: Leon Derczynski,Kalina Bontcheva,Ian Roberts
+url: https://pdfs.semanticscholar.org/52a7/96fd073ea6a621ecdf2c8b450c4a4717ff51.pdf
+citation: 19
+tag: dataset
+------------------------------------------------------------------------
+year: 2016
+conf: COLING
+title: Named Entity Disambiguation for little known referents: a topic-based approach
+author: Yi Chen,Yusong Tan,Qingbo Wu,Wei Wang
+url: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8343692
+citation: 2
+tag: other
+------------------------------------------------------------------------
+year: 2016
+conf: COLING
+title: Experiments in Candidate Phrase Selection for Financial Named Entity Extraction - A Demo
+author: Aman Kumar,Hassan Alam,Tina Werner,Manan Vyas
+url: https://pdfs.semanticscholar.org/cfa0/2cbd53690375cbcb6351d3da5f9acc556aab.pdf
+citation: 1
+tag: other
+------------------------------------------------------------------------
+year: 2014
+conf: COLING
+title: A Hybrid Approach to Features Representation for Fine-grained Arabic Named Entity Recognition
+author: Fahd Alotaibi,Mark G. Lee
+url: https://pdfs.semanticscholar.org/0c7e/c21736a7a0180915e619ebea806a3e35ef7a.pdf
+citation: 6
+tag: other
+------------------------------------------------------------------------
+year: 2019
+conf: Arxiv
+title: CrossWeigh: Training Named Entity Tagger from Imperfect Annotations
+author: Zihan Wang, Jingbo Shang, Liyuan Liu, Lihao Lu, Jiacheng Liu, Jiawei Han
+url: https://arxiv.org/pdf/1909.01441.pdf
+citation: 1
+tag: interpret-error
+------------------------------------------------------------------------
+year: 2009
+conf: CoNLL
+title: Design Challenges and Misconceptions in Named Entity Recognition
+author: Lev Ratinov, Dan Roth
+url: https://www.aclweb.org/anthology/W09-1119.pdf
+citation: 1193
+tag: interpret-model
+------------------------------------------------------------------------
+year: 2019
+conf: Arxiv
+title: TENER: Adapting Transformer Encoder for Named Entity Recognition
+author: Hang Yan, Bocao Deng, Xiaonan Li, Xipeng Qiu
+url: https://arxiv.org/pdf/1911.04474.pdf
+citation: 0
+tag: arch-transformer
+------------------------------------------------------------------------
+year: 2019
+conf: ACL
+title: Reliability-aware Dynamic Feature Composition for Name Tagging
+author: Ying Lin, Liyuan Liu, Heng Ji, Dong Yu, Jiawei Han
+url: https://www.aclweb.org/anthology/P19-1016.pdf
+citation: 3
+tag: arch-rnn, arch-cnn, arch-crf
+------------------------------------------------------------------------
+year: 2016
+conf: IJCAI
+title: Exploring Segment Representations for Neural Segmentation Models
+author: Yijia Liu, Wanxiang Che, Jiang Guo, Bing Qin, Ting Liu
+url: https://www.ijcai.org/Proceedings/16/Papers/409.pdf
+citation: 37
+tag: arch-semicrf
+------------------------------------------------------------------------
