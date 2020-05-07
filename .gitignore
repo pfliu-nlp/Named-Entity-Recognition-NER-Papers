@@ -1,1 +1,14 @@
 .DS_Store
+.idea/deployment.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/Named-Entity-Recognition-NER-Papers.iml
+.idea/rSettings.xml
+.idea/vcs.xml
+.idea/workspace.xml
+crowdsource/.ner.html.swp
+crowdsource/html2text.py
+crowdsource/ner.html
+crowdsource/script.js
+crowdsource/style.css
