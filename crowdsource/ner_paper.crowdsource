@@ -1,4 +1,324 @@
 year: 2020
+conf: ACL
+title: Learning Architectures from an Extended Search Space for Language Modeling
+author: Yinqiao Li, Chi Hu, Yuhao Zhang, Nuo Xu, Yufan Jiang, Tong Xiao, Jingbo Zhu, Tongran Liu, Changliang Li
+url: https://arxiv.org/pdf/2005.02593.pdf
+citation: 0
+tag: aa-recentlyAdded, aa-ACL2020
+------------------------------------------------------------------------
+year: 2020
+conf: ACL
+title: Soft Gazetteers for Low-Resource Named Entity Recognition
+author: Shruti Rijhwani, Shuyan Zhou, Graham Neubig, Jaime Carbonell
+url: https://arxiv.org/pdf/2005.01866.pdf
+citation: 0
+tag: aa-recentlyAdded, aa-ACL2020,
+------------------------------------------------------------------------
+year: 2020
+conf: ACL
+title: Sources of Transfer in Multilingual Named Entity Recognition
+author: David Mueller, Nicholas Andrews, Mark Dredze
+url: https://arxiv.org/pdf/2005.00847.pdf
+citation: 0
+tag: aa-recentlyAdded, aa-ACL2020
+------------------------------------------------------------------------
+year: 2020
+conf: ACL
+title: Code and Named Entity Recognition in StackOverflow
+author: Jeniya Tabassum, Mounica Maddela, Wei Xu, Alan Ritter
+url: https://arxiv.org/pdf/2005.01634.pdf
+citation: 0
+tag: aa-recentlyAdded, aa-ACL2020, dataset
+------------------------------------------------------------------------
+year: 2020
+conf: ACL
+title: Bipartite Flat-Graph Network for Nested Named Entity Recognition
+author: Ying Luo, Hai Zhao
+url: https://arxiv.org/pdf/2005.00436.pdf
+citation: 0
+tag: aa-recentlyAdded, aa-ACL2020
+------------------------------------------------------------------------
+year: 2020
+conf: ACL
+title: Named Entity Recognition without Labelled Data: A Weak Supervision Approach
+author: Pierre Lison, Aliaksandr Hubin, Jeremy Barnes, Samia Touileb
+url: https://arxiv.org/pdf/2004.14723.pdf
+citation: 0
+tag: aa-recentlyAdded, aa-ACL2020,
+------------------------------------------------------------------------
+year: 2020
+conf: ACL
+title: Instance-Based Learning of Span Representations: A Case Study through Named Entity Recognition
+author: Hiroki Ouchi, Jun Suzuki, Sosuke Kobayashi, Sho Yokoi, Tatsuki Kuribayashi, Ryuto Konno, Kentaro Inui
+url: https://arxiv.org/pdf/2004.14514.pdf
+citation: 0
+tag: aa-recentlyAdded, aa-ACL2020,
+------------------------------------------------------------------------
+year: 2020
+conf: ACL
+title: An Effective Transition-based Model for Discontinuous NER
+author: Xiang Dai, Sarvnaz Karimi, Ben Hachey, Cecile Paris
+url: https://arxiv.org/pdf/2004.13454.pdf
+citation: 0
+tag: aa-recentlyAdded, aa-ACL2020
+------------------------------------------------------------------------
+year: 2020
+conf: ACL
+title: Single-/Multi-Source Cross-Lingual NER via Teacher-Student Learning on Unlabeled Data in Target Language
+author: Qianhui Wu, Zijia Lin, Börje F. Karlsson, Jian-Guang Lou, Biqing Huang
+url: https://arxiv.org/pdf/2004.12440.pdf
+citation: 0
+tag: aa-recentlyAdded, aa-ACL2020
+------------------------------------------------------------------------
+year: 2020
+conf: ACL
+title: FLAT: Chinese NER Using Flat-Lattice Transformer
+author: Xiaonan Li, Hang Yan, Xipeng Qiu, Xuanjing Huang
+url: https://arxiv.org/pdf/2004.11795.pdf
+citation: 0
+tag: aa-recentlyAdded, aa-ACL2020
+------------------------------------------------------------------------
+year: 2020
+conf: ACL
+title: TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition
+author: Bill Yuchen Lin, Dong-Ho Lee, Ming Shen, Ryan Moreno, Xiao Huang, Prashant Shiralkar, Xiang Ren
+url: https://arxiv.org/pdf/2004.07493.pdf
+citation: 0
+tag: aa-recentlyAdded, aa-ACL2020
+------------------------------------------------------------------------
+year: 2020
+conf: ACL
+title: Structure-Level Knowledge Distillation For Multilingual Sequence Labeling
+author: Xinyu Wang, Yong Jiang, Nguyen Bach, Tao Wang, Fei Huang, Kewei Tu
+url: https://128.84.21.199/pdf/2004.03846.pdf
+citation: 0
+tag: aa-recentlyAdded, aa-ACL2020
+------------------------------------------------------------------------
+year: 2020
+conf: ACL
+title: TinyMBERT: Multi-Stage Distillation Framework for Massive Multi-lingual NER
+author: Subhabrata Mukherjee, Ahmed Awadallah
+url: https://arxiv.org/pdf/2004.05686.pdf
+citation: 0
+tag: aa-recentlyAdded, aa-ACL2020
+------------------------------------------------------------------------
+year: 43922
+conf: Arxiv
+title: A Rigourous Study on Named Entity Recognition: Can Fine-tuning Pretrained Model Lead to the Promised Land?
+author: Hongyu Lin, Yaojie Lu, Xianpei Han, Le Sun
+url: https://arxiv.org/pdf/2004.12126.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 43952
+conf: Arxiv
+title: Partially-Typed NER Datasets Integration: Connecting Practice to Theory
+author: Shi Zhi, Liyuan Liu, Yu Zhang, Shiyin Wang, Qi Li, Chao Zhang, Jiawei Han
+url: https://arxiv.org/pdf/2005.00502.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 43922
+conf: Arxiv
+title: Interpretability Analysis for Named Entity Recognition to Understand System Predictions and How They Can Improve
+author: Authors: Oshin Agarwal, Yinfei Yang, Byron C. Wallace, Ani Nenkova
+url: https://arxiv.org/pdf/2004.04564.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 43922
+conf: Arxiv
+title: LEAN-LIFE: A Label-Efficient Annotation Framework Towards Learning from Explanation
+author: Dong-Ho Lee, Rahul Khanna, Bill Yuchen Lin, Jamin Chen, Seyeon Lee, Qinyuan Ye, Elizabeth Boschee, Leonardo Neves, Xiang Ren
+url: https://arxiv.org/pdf/2004.07499.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 43922
+conf: Arxiv
+title: Entity-Switched Datasets: An Approach to Auditing the In-Domain Robustness of Named Entity Recognition Models
+author: Oshin Agarwal, Yinfei Yang, Byron C. Wallace, Ani Nenkova
+url: https://arxiv.org/pdf/2004.04123.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 43891
+conf: Arxiv
+title: FedNER: Privacy-preserving Medical Named Entity Recognition with Federated Learning
+author: Suyu Ge, Fangzhao Wu, Chuhan Wu, Tao Qi, Yongfeng Huang, Xing Xie
+url: https://arxiv.org/pdf/2003.09288.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 43831
+conf: Arxiv
+title: MT-BioNER: Multi-task Learning for Biomedical Named Entity Recognition using Deep Bidirectional Transformers
+author: Muhammad Raza Khan, Morteza Ziyadi, Mohamed AbdelHady
+url: https://arxiv.org/pdf/2001.08904.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 43831
+conf: Arxiv
+title: FGN: Fusion Glyph Network for Chinese Named Entity Recognition
+author: Zhenyu Xuan, Rui Bao, Chuyu Ma, Shengyi Jiang
+url: https://arxiv.org/pdf/2001.05272.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 43800
+conf: Arxiv
+title: Chinese Named Entity Recognition Augmented with Lexicon Memory
+author: Yi Zhou, Xiaoqing Zheng, Xuanjing Huang
+url: https://arxiv.org/pdf/1912.08282.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 43922
+conf: Arxiv
+title: Incorporating Uncertain Segmentation Information into Chinese NER for Social Media Text
+author: Shengbin Jia, Ling Ding, Xiaojun Chen, Yang Xiang
+url: https://arxiv.org/pdf/2004.06384.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 43922
+conf: Arxiv
+title: Self-Attention Gazetteer Embeddings for Named-Entity Recognition
+author: Nina Poerner, Ulli Waltinger, Hinrich Schutze
+url: https://arxiv.org/pdf/2004.03354.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 43891
+conf: Arxiv
+title: Adaptive Name Entity Recognition under Highly Unbalanced Data
+author: Thong Nguyen, Duy Nguyen, Pramod Rao
+url: https://arxiv.org/pdf/2003.10296.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 43891
+conf: Arxiv
+title: Parallel sequence tagging for concept recognition
+author: Lenz Furrer, Joseph Cornelius, Fabio Rinaldi
+url: https://arxiv.org/pdf/2003.07424.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 2020
+conf: ICLR
+title: Distant Supervision and Noisy Label Learning for Low Resource Named Entity Recognition: A Study on Hausa and Yorùbá
+author: David I. Adelani, Michael A. Hedderich, Dawei Zhu, Esther van den Berg, Dietrich Klakow
+url: https://arxiv.org/pdf/2003.08370v1.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 2020
+conf: AAAI
+title: Why Attention? Analyze BiLSTM Deficiency and Its Remedies in the Case of NER
+author: Peng-Hsuan Li, Tsu-Jui Fu, Wei-Yun Ma
+url: https://arxiv.org/pdf/1908.11046.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 2020
+conf: AAAI
+title: Leveraging Multi-token Entities in Document-level Named Entity Recognition
+author: Anwen Hu, Zhicheng Dou, Jian-Yun Nie, Ji-Rong Wen
+url: http://playbigdata.ruc.edu.cn/dou/publication/2020_aaai_ner.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 2020
+conf: AAAI
+title: Fine-Grained Named Entity Typing over Distantly Supervised Data Based on Refined Representations
+author: Muhammad Asif Ali, Yifang Sun, Bing Li, Wei Wang
+url: https://aaai.org/Papers/AAAI/2020GB/AAAI-AliM.2531.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 2020
+conf: AAAI
+title: Boundary Enhanced Neural Span Classification for Nested Named Entity Recognition
+author: Chuanqi Tan, Wei Qiu, Mosha Chen, Rui Wang, Fei Huang
+url: https://aaai.org/Papers/AAAI/2020GB/AAAI-TanC.3325.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 2020
+conf: AAAI
+title: Enhanced Meta-Learning for Cross-lingual Named Entity Recognition with Minimal Resources
+author: Qianhui Wu, Zijia Lin, Guoxin Wang, Hui Chen, Borje F. Karlsson, Biqing Huang, Chin-Yew Lin
+url: https://arxiv.org/pdf/1911.06161.pdf
+citation: 1
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 2020
+conf: AAAI
+title: Robust Named Entity Recognition with Truecasing Pretraining
+author: Stephen Mayhew, Nitish Gupta, Dan Roth
+url: https://arxiv.org/pdf/1912.07095.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 2020
+conf: AAAI
+title: HAMNER: Headword Amplified Multi-span Distantly Supervised Method for Domain Specific Named Entity Recognition
+author: Shifeng Liu, Yifang Sun, Bing Li, Wei Wang, Xiang Zhao
+url: https://aaai.org/Papers/AAAI/2020GB/AAAI-LiuS.6346.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 2020
+conf: AAAI
+title: Hierarchical Contextualized Representation for Named Entity Recognition
+author: Ying Luo, Fengshun Xiao, Hai Zhao
+url: https://arxiv.org/pdf/1911.02257.pdf
+citation: 3
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 2020
+conf: AAAI
+title: Zero-Resource Cross-Lingual Named Entity Recognition
+author: M Saiful Bari, Shafiq Joty, Prathyusha Jwalapuram
+url: https://arxiv.org/pdf/1911.09812.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 2020
+conf: AAAI
+title: Recursively Binary Modification Model for Nested Named Entity Recognition
+author: Bing Li, Shifeng Liu, Yifang Sun, Wei Wang, Xiang Zhao
+url: https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiB.9947.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 2020
+conf: AAAI
+title: Weakly Supervised Sequence Tagging from Noisy Rules
+author: Esteban Safranchik, Shiying Luo, Stephen H. Bach
+url: http://cs.brown.edu/people/sbach/files/safranchik-aaai20.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 2020
+conf: AAAI
+title: Low Resource Sequence Tagging with Weak Labels
+author: Edwin Simpson, Jonas Pfeiffer, Iryna Gurevych
+url: https://public.ukp.informatik.tu-darmstadt.de/UKP_Webpage/publications/2020/2020_AAAI_SE_LowResourceSequence.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 2020
+conf: AAAI
+title: Knowledge-Graph Augmented Word Representations For Named Entity Recognition
+author: Qizhen He, Liang Wu, Yida Yin, Heming Cai
+url: https://aaai.org/Papers/AAAI/2020GB/AAAI-HeQ.1075.pdf
+citation: 0
+tag: aa-recentlyAdded
+------------------------------------------------------------------------
+year: 2020
 conf: AAAI
 title: Why Attention? Analyze BiLSTM Deficiency and Its Remedies in the Case of NER
 author: Peng-Hsuan Li, Tsu-Jui Fu, Wei-Yun Ma
