@@ -503,6 +503,14 @@ citation: 2
 tag: other
 ------------------------------------------------------------------------
 year: 2019
+conf: NAACL
+title: GraphIE: A Graph-Based Framework for Information Extraction
+author: Yujie Qian, Enrico Santus, Zhijing Jin, Jiang Guo, Regina Barzilay
+url: https://arxiv.org/pdf/1810.13083.pdf
+citation: 7
+tag: arch-gnn
+------------------------------------------------------------------------
+year: 2019
 conf: EMNLP
 title: A Boundary-aware Neural Model for Nested Named Entity Recognition
 author: Meizhi Ju, Makoto Miwa, Sophia Ananiadou
