@@ -12,3 +12,16 @@ crowdsource/html2text.py
 crowdsource/ner.html
 crowdsource/script.js
 crowdsource/style.css
+crowdsource.zip
+crowdsource/html2mline.py
+crowdsource/lowResource2multiLine.txt
+crowdsource/lowsource.html
+crowdsource/mline2html.py
+crowdsource/nlp-citation.mysql
+crowdsource/run.sh
+crowdsource/run_low.sh
+crowdsource/tagPaper-one.py
+crowdsource/template_low.cpt
+crowdsource/template_ner.html
+crowdsource/wordemb.html
+crowdsource/wordRep2multiLine.txt
