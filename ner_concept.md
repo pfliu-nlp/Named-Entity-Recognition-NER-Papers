@@ -26,6 +26,7 @@
 * `task-hetero`:	Heterogeneous categories
 * `task-lowres`:	Low-resource or Zero-resource learning
 * `task-weaksup`:	Weakly Supervised NER
+* `task-disc`:	Discontinuous NER
 
 ### Dataset
 * `dataset`:	Constructing a new dataset
